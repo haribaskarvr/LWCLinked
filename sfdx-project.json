@@ -1,9 +1,19 @@
 {
   "packageDirectories": [
     {
-      "path": "force-app",
+      "path": "./es-base-objects",
+      "package": "ESObjects",
+      "versionName": "Base Objects - Summer '20",
+      "versionNumber": "4.0.0.NEXT",
       "default": true
-    }
+  },
+  {
+      "path": "./es-base-styles",
+      "package": "ESBaseStylesLWC",
+      "versionName": "Base Styles LWC - Summer '20",
+      "versionNumber": "4.0.0.NEXT",
+      "default": false
+  }
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
